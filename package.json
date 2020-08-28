@@ -1,0 +1,24 @@
+{
+  "name": "Descent_Through_the_Darkness",
+  "version": "1.0.0",
+  "description": "This is a react RPG Game\r =================================\r This is the very beginning of the game code:\r Version Pre-Alpha 1.0\r goals of this version:\r     1. Have game in a working form.\r     2. Have character move across map with directional keys\r     3. Have character able to attack with pre given weapon",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshBal117/Descent_Through_the_Darkness.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshBal117/Descent_Through_the_Darkness/issues"
+  },
+  "homepage": "https://github.com/JoshBal117/Descent_Through_the_Darkness#readme"
+}
